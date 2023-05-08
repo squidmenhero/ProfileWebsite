@@ -569,10 +569,6 @@
 }
 
 .footer__link--items {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  margin: 16px;
   text-align: left;
   width: 160px;
   box-sizing: border-box;
@@ -589,8 +585,6 @@
   margin-bottom: 0.5rem;
   transition: 0.3 ease-out;
 }
-
-
 
 .social__icon--link {
   color: #fff;
@@ -647,4 +641,19 @@
     padding: 10px;
     width: 100%;
   }
+}
+
+/* ------- custom scrollbar ----- */
+
+::-webkit-scrollbar{
+  width: 15px;
+}
+
+::-webkit-scrollbar-track{
+  background:#000000;
+}
+
+::-webkit-scrollbar-thumb{
+background: linear-gradient(#d1e5ff,#d1e5ff);
+  border-radius: 10px;
 }
