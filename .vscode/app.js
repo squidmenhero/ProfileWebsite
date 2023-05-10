@@ -51,7 +51,8 @@ const hideMobileMenu = () => {
     menuLinks.classList.remove('active');
   }
 };
-  
+
+
 
   
 menuLinks.addEventListener('click', hideMobileMenu);
