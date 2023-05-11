@@ -138,7 +138,7 @@
   }
 
   .navbar__menu.active {
-    background: #131313;
+    background: #ffffff;
     top: 100%;
     opacity: 1;
     transition: all 0.5s ease;
@@ -156,7 +156,7 @@
     height: 3px;
     margin: 5px auto;
     transition: all 0.3s ease-in-out;
-    background: #fff;
+    background: #000000;
   }
 
   .navbar__item {
@@ -184,6 +184,7 @@
   }
 
   #mobile-menu {
+    
     position: absolute;
     top: 20%;
     right: 5%;
