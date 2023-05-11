@@ -17,7 +17,7 @@ The portfolio website serves as a showcase of my computer engineering skills and
 
 ## Demo
 
-A live demo of the portfolio website can be accessed [here](lukasportfolio.cloud).
+A live demo of the portfolio website can be accessed [here](https://www.lukasportfolio.cloud/).
 
 ## Technologies Used
 
